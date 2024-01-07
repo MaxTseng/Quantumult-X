@@ -1,0 +1,1282 @@
+{
+  "name": "Qure Light (All)",
+  "icons": [
+    {
+      "name": "Frog.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Frog.png"
+    },
+    {
+      "name": "Blackhole.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Blackhole.png"
+    },
+    {
+      "name": "TAG.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/TAG.png"
+    },
+    {
+      "name": "Bamboo.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Bamboo.png"
+    },
+    {
+      "name": "Cat.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Cat.png"
+    },
+    {
+      "name": "Lambda.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Lambda.png"
+    },
+    {
+      "name": "Panda.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Panda.png"
+    },
+    {
+      "name": "SSL.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SSL.png"
+    },
+    {
+      "name": "Luffy.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Luffy.png"
+    },
+    {
+      "name": "Nfcloud.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Nfcloud.png"
+    },
+    {
+      "name": "Catnet.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Catnet.png"
+    },
+    {
+      "name": "5iTV.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/5iTV.png"
+    },
+    {
+      "name": "aaex.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/aaex.png"
+    },
+    {
+      "name": "AbemaTV.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/AbemaTV.png"
+    },
+    {
+      "name": "AbemaTV_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/AbemaTV_Letter.png"
+    },
+    {
+      "name": "AdBlack.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/AdBlack.png"
+    },
+    {
+      "name": "Advertising.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Advertising.png"
+    },
+    {
+      "name": "AdWhite.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/AdWhite.png"
+    },
+    {
+      "name": "AIA.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/AIA.png"
+    },
+    {
+      "name": "AIA_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/AIA_Letter.png"
+    },
+    {
+      "name": "Airport.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Airport.png"
+    },
+    {
+      "name": "Alibaba.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Alibaba.png"
+    },
+    {
+      "name": "Alibaba_Cloud.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Alibaba_Cloud.png"
+    },
+    {
+      "name": "All4.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/All4.png"
+    },
+    {
+      "name": "AmyTelecom.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/AmyTelecom.png"
+    },
+    {
+      "name": "AmyTelecom_1.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/AmyTelecom_1.png"
+    },
+    {
+      "name": "Apol.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Apol.png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Apple.png"
+    },
+    {
+      "name": "Apple_Fitness+.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Apple_Fitness+.png"
+    },
+    {
+      "name": "Apple_Fitness.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Apple_Fitness.png"
+    },
+    {
+      "name": "Apple_Mail.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Apple_Mail.png"
+    },
+    {
+      "name": "Apple_Music.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Apple_Music.png"
+    },
+    {
+      "name": "Apple_News.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Apple_News.png"
+    },
+    {
+      "name": "Apple_TV.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Apple_TV.png"
+    },
+    {
+      "name": "Apple_TV_Plus.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Apple_TV_Plus.png"
+    },
+    {
+      "name": "Apple_Update.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Apple_Update.png"
+    },
+    {
+      "name": "App_Store.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/App_Store.png"
+    },
+    {
+      "name": "Area.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Area.png"
+    },
+    {
+      "name": "ARK.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/ARK.png"
+    },
+    {
+      "name": "Auto.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Auto.png"
+    },
+    {
+      "name": "Available.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Available.png"
+    },
+    {
+      "name": "Available_Alt.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Available_Alt.png"
+    },
+    {
+      "name": "AWS.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/AWS.png"
+    },
+    {
+      "name": "Azure.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Azure.png"
+    },
+    {
+      "name": "Back.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Back.png"
+    },
+    {
+      "name": "Bahamut.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Bahamut.png"
+    },
+    {
+      "name": "Baidu_Cloud.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Baidu_Cloud.png"
+    },
+    {
+      "name": "BBC_iPlayer.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/BBC_iPlayer.png"
+    },
+    {
+      "name": "BBTEC.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/BBTEC.png"
+    },
+    {
+      "name": "BGP.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/BGP.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/bilibili.png"
+    },
+    {
+      "name": "Blinkload.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Blinkload.png"
+    },
+    {
+      "name": "Blinkload_B.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Blinkload_B.png"
+    },
+    {
+      "name": "Blinkload_SS.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Blinkload_SS.png"
+    },
+    {
+      "name": "Blinkload_V2Ray.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Blinkload_V2Ray.png"
+    },
+    {
+      "name": "Bookpedia.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Bookpedia.png"
+    },
+    {
+      "name": "BosLife.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/BosLife.png"
+    },
+    {
+      "name": "BosLife_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/BosLife_Letter.png"
+    },
+    {
+      "name": "Bot.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Bot.png"
+    },
+    {
+      "name": "Bypass.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Bypass.png"
+    },
+    {
+      "name": "CA.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CA.png"
+    },
+    {
+      "name": "Canada.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Canada.png"
+    },
+    {
+      "name": "CCCAT.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CCCAT.png"
+    },
+    {
+      "name": "CCCAT_C.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CCCAT_C.png"
+    },
+    {
+      "name": "Cellular.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Cellular.png"
+    },
+    {
+      "name": "CEN.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CEN.png"
+    },
+    {
+      "name": "China.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/China.png"
+    },
+    {
+      "name": "China_Map.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/China_Map.png"
+    },
+    {
+      "name": "China_Telecom.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/China_Telecom.png"
+    },
+    {
+      "name": "China_Unicom.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/China_Unicom.png"
+    },
+    {
+      "name": "CHT.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CHT.png"
+    },
+    {
+      "name": "Cloudflare.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Cloudflare.png"
+    },
+    {
+      "name": "CMI.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CMI.png"
+    },
+    {
+      "name": "CN.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CN.png"
+    },
+    {
+      "name": "CN2.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CN2.png"
+    },
+    {
+      "name": "CN2_GIA.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CN2_GIA.png"
+    },
+    {
+      "name": "CN2_GT.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CN2_GT.png"
+    },
+    {
+      "name": "CONAIR.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CONAIR.png"
+    },
+    {
+      "name": "CrossWall.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CrossWall.png"
+    },
+    {
+      "name": "CTM.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/CTM.png"
+    },
+    {
+      "name": "Cydia.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Cydia.png"
+    },
+    {
+      "name": "Daily.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Daily.png"
+    },
+    {
+      "name": "DAZN.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/DAZN.png"
+    },
+    {
+      "name": "DE.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/DE.png"
+    },
+    {
+      "name": "deezer.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/deezer.png"
+    },
+    {
+      "name": "deezer_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/deezer_Letter.png"
+    },
+    {
+      "name": "Dinosaur.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Dinosaur.png"
+    },
+    {
+      "name": "Direct.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Direct.png"
+    },
+    {
+      "name": "discovery+.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/discovery+.png"
+    },
+    {
+      "name": "Disney+.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Disney+.png"
+    },
+    {
+      "name": "Dler.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Dler.png"
+    },
+    {
+      "name": "DMIT.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/DMIT.png"
+    },
+    {
+      "name": "Domestic.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Domestic.png"
+    },
+    {
+      "name": "DomesticMedia.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/DomesticMedia.png"
+    },
+    {
+      "name": "Download.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Download.png"
+    },
+    {
+      "name": "Drill.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Drill.png"
+    },
+    {
+      "name": "Emby.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Emby.png"
+    },
+    {
+      "name": "encoreTVB.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/encoreTVB.png"
+    },
+    {
+      "name": "ESPN+.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/ESPN+.png"
+    },
+    {
+      "name": "EU.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/EU.png"
+    },
+    {
+      "name": "European_Union.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/European_Union.png"
+    },
+    {
+      "name": "Facebook.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Facebook.png"
+    },
+    {
+      "name": "FI.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/FI.png"
+    },
+    {
+      "name": "Filter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Filter.png"
+    },
+    {
+      "name": "Final.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Final.png"
+    },
+    {
+      "name": "Find_My.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Find_My.png"
+    },
+    {
+      "name": "Flamingo.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Flamingo.png"
+    },
+    {
+      "name": "ForeignMedia.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/ForeignMedia.png"
+    },
+    {
+      "name": "FOX.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/FOX.png"
+    },
+    {
+      "name": "friDay.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/friDay.png"
+    },
+    {
+      "name": "fuboTV.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/fuboTV.png"
+    },
+    {
+      "name": "G-Core_Labs.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/G-Core_Labs.png"
+    },
+    {
+      "name": "Game.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Game.png"
+    },
+    {
+      "name": "GCP.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/GCP.png"
+    },
+    {
+      "name": "Germany.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Germany.png"
+    },
+    {
+      "name": "GIA.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/GIA.png"
+    },
+    {
+      "name": "GLaDOS.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/GLaDOS.png"
+    },
+    {
+      "name": "Global.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Global.png"
+    },
+    {
+      "name": "GlobalMedia.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/GlobalMedia.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Google.png"
+    },
+    {
+      "name": "Google_Drive.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Google_Drive.png"
+    },
+    {
+      "name": "Google_Opinion_Rewards.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Google_Opinion_Rewards.png"
+    },
+    {
+      "name": "Google_Search.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Google_Search.png"
+    },
+    {
+      "name": "GT.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/GT.png"
+    },
+    {
+      "name": "GuGuEX.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/GuGuEX.png"
+    },
+    {
+      "name": "GuGuEX_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/GuGuEX_Letter.png"
+    },
+    {
+      "name": "HBO.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/HBO.png"
+    },
+    {
+      "name": "HBO_Max.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/HBO_Max.png"
+    },
+    {
+      "name": "Heart.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Heart.png"
+    },
+    {
+      "name": "Heureka.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Heureka.png"
+    },
+    {
+      "name": "HGC.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/HGC.png"
+    },
+    {
+      "name": "Hijacking.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Hijacking.png"
+    },
+    {
+      "name": "HiNet.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/HiNet.png"
+    },
+    {
+      "name": "hitun.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/hitun.png"
+    },
+    {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/HK.png"
+    },
+    {
+      "name": "HKBN.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/HKBN.png"
+    },
+    {
+      "name": "HKMTMedia.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/HKMTMedia.png"
+    },
+    {
+      "name": "HKT.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/HKT.png"
+    },
+    {
+      "name": "Hong_Kong.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Hong_Kong.png"
+    },
+    {
+      "name": "Hulu.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Hulu.png"
+    },
+    {
+      "name": "iCloud.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/iCloud.png"
+    },
+    {
+      "name": "IEPL.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/IEPL.png"
+    },
+    {
+      "name": "IIJ.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/IIJ.png"
+    },
+    {
+      "name": "IN.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/IN.png"
+    },
+    {
+      "name": "Ingress.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Ingress.png"
+    },
+    {
+      "name": "Instagram.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Instagram.png"
+    },
+    {
+      "name": "IPLC.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/IPLC.png"
+    },
+    {
+      "name": "iQIYI&bilibili.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/iQIYI&bilibili.png"
+    },
+    {
+      "name": "iQIYI.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/iQIYI.png"
+    },
+    {
+      "name": "ITV_Hub.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/ITV_Hub.png"
+    },
+    {
+      "name": "Japan.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Japan.png"
+    },
+    {
+      "name": "JIYOU.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/JIYOU.png"
+    },
+    {
+      "name": "JOOX.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/JOOX.png"
+    },
+    {
+      "name": "JOOX_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/JOOX_Letter.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/JP.png"
+    },
+    {
+      "name": "KKBOX.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/KKBOX.png"
+    },
+    {
+      "name": "KKTV.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/KKTV.png"
+    },
+    {
+      "name": "Korea.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Korea.png"
+    },
+    {
+      "name": "KR.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/KR.png"
+    },
+    {
+      "name": "KT.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/KT.png"
+    },
+    {
+      "name": "Lab.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Lab.png"
+    },
+    {
+      "name": "League_of_Legends.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/League_of_Legends.png"
+    },
+    {
+      "name": "LineTV.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/LineTV.png"
+    },
+    {
+      "name": "LineTV_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/LineTV_Letter.png"
+    },
+    {
+      "name": "LiTV.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/LiTV.png"
+    },
+    {
+      "name": "Lock.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Lock.png"
+    },
+    {
+      "name": "LOL.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/LOL.png"
+    },
+    {
+      "name": "Loop.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Loop.png"
+    },
+    {
+      "name": "Macao.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Macao.png"
+    },
+    {
+      "name": "Magic.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Magic.png"
+    },
+    {
+      "name": "Mail.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Mail.png"
+    },
+    {
+      "name": "Malaysia.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Malaysia.png"
+    },
+    {
+      "name": "MAYING.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/MAYING.png"
+    },
+    {
+      "name": "Media.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Media.png"
+    },
+    {
+      "name": "Microsoft.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Microsoft.png"
+    },
+    {
+      "name": "MO.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/MO.png"
+    },
+    {
+      "name": "Mouse.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Mouse.png"
+    },
+    {
+      "name": "Music.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Music.png"
+    },
+    {
+      "name": "Music_Enhance.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Music_Enhance.png"
+    },
+    {
+      "name": "MY.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/MY.png"
+    },
+    {
+      "name": "My5.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/My5.png"
+    },
+    {
+      "name": "myTV_SUPER.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/myTV_SUPER.png"
+    },
+    {
+      "name": "N3RO.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/N3RO.png"
+    },
+    {
+      "name": "NBC.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/NBC.png"
+    },
+    {
+      "name": "Netease_Music.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Netease_Music.png"
+    },
+    {
+      "name": "Netease_Music_Unlock.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Netease_Music_Unlock.png"
+    },
+    {
+      "name": "Netflix.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Netflix.png"
+    },
+    {
+      "name": "Netflix_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Netflix_Letter.png"
+    },
+    {
+      "name": "Nexitally.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Nexitally.png"
+    },
+    {
+      "name": "niconico.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/niconico.png"
+    },
+    {
+      "name": "niconico_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/niconico_Letter.png"
+    },
+    {
+      "name": "Notion.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Notion.png"
+    },
+    {
+      "name": "NTT.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/NTT.png"
+    },
+    {
+      "name": "Null_Nation.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Null_Nation.png"
+    },
+    {
+      "name": "NyanCat.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/NyanCat.png"
+    },
+    {
+      "name": "OneDrive.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/OneDrive.png"
+    },
+    {
+      "name": "Oracle.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Oracle.png"
+    },
+    {
+      "name": "Ox.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Ox.png"
+    },
+    {
+      "name": "Pandora.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Pandora.png"
+    },
+    {
+      "name": "PayPal.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/PayPal.png"
+    },
+    {
+      "name": "PBS.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/PBS.png"
+    },
+    {
+      "name": "PCCW.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/PCCW.png"
+    },
+    {
+      "name": "Peacock.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Peacock.png"
+    },
+    {
+      "name": "Peacock_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Peacock_Letter.png"
+    },
+    {
+      "name": "Peacock_P.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Peacock_P.png"
+    },
+    {
+      "name": "PH.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/PH.png"
+    },
+    {
+      "name": "Philippines.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Philippines.png"
+    },
+    {
+      "name": "Pig.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Pig.png"
+    },
+    {
+      "name": "Pornhub.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Pornhub.png"
+    },
+    {
+      "name": "PostBox.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/PostBox.png"
+    },
+    {
+      "name": "PostBox_Alt.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/PostBox_Alt.png"
+    },
+    {
+      "name": "Prime_Video.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Prime_Video.png"
+    },
+    {
+      "name": "Proxy.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Proxy.png"
+    },
+    {
+      "name": "Puzzle.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Puzzle.png"
+    },
+    {
+      "name": "QQ.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/QQ.png"
+    },
+    {
+      "name": "Quantumult_X.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Quantumult_X.png"
+    },
+    {
+      "name": "Qure.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Qure.png"
+    },
+    {
+      "name": "Reject.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Reject.png"
+    },
+    {
+      "name": "rix.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/rix.png"
+    },
+    {
+      "name": "rixcloud.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/rixcloud.png"
+    },
+    {
+      "name": "Rocket.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Rocket.png"
+    },
+    {
+      "name": "Round_Robin.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Round_Robin.png"
+    },
+    {
+      "name": "Round_Robin_Alt.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Round_Robin_Alt.png"
+    },
+    {
+      "name": "RU.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/RU.png"
+    },
+    {
+      "name": "Russia.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Russia.png"
+    },
+    {
+      "name": "Server.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Server.png"
+    },
+    {
+      "name": "SG.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SG.png"
+    },
+    {
+      "name": "Singapore.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Singapore.png"
+    },
+    {
+      "name": "Siri.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Siri.png"
+    },
+    {
+      "name": "SK.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SK.png"
+    },
+    {
+      "name": "Sling_TV.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Sling_TV.png"
+    },
+    {
+      "name": "SoftBank.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SoftBank.png"
+    },
+    {
+      "name": "SoftBank_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SoftBank_Letter.png"
+    },
+    {
+      "name": "Spark.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Spark.png"
+    },
+    {
+      "name": "Speedtest.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Speedtest.png"
+    },
+    {
+      "name": "Spotify.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Spotify.png"
+    },
+    {
+      "name": "SS.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SS.png"
+    },
+    {
+      "name": "SSID.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SSID.png"
+    },
+    {
+      "name": "SSID_Alt.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SSID_Alt.png"
+    },
+    {
+      "name": "SSR.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SSR.png"
+    },
+    {
+      "name": "ssrcloud.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/ssrcloud.png"
+    },
+    {
+      "name": "SSR_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SSR_Letter.png"
+    },
+    {
+      "name": "SS_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/SS_Letter.png"
+    },
+    {
+      "name": "Stack.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Stack.png"
+    },
+    {
+      "name": "Star.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Star.png"
+    },
+    {
+      "name": "Static.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Static.png"
+    },
+    {
+      "name": "Static_Alt.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Static_Alt.png"
+    },
+    {
+      "name": "Streaming.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Streaming.png"
+    },
+    {
+      "name": "StreamingCN.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/StreamingCN.png"
+    },
+    {
+      "name": "StreamingSE.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/StreamingSE.png"
+    },
+    {
+      "name": "Taiwan.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Taiwan.png"
+    },
+    {
+      "name": "Taobao.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Taobao.png"
+    },
+    {
+      "name": "Telegram.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Telegram.png"
+    },
+    {
+      "name": "Telegram_X.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Telegram_X.png"
+    },
+    {
+      "name": "Tencent_Cloud.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Tencent_Cloud.png"
+    },
+    {
+      "name": "TestFlight.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/TestFlight.png"
+    },
+    {
+      "name": "TH.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/TH.png"
+    },
+    {
+      "name": "Thailand.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Thailand.png"
+    },
+    {
+      "name": "TIDAL.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/TIDAL.png"
+    },
+    {
+      "name": "TikTok.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/TikTok.png"
+    },
+    {
+      "name": "TR.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/TR.png"
+    },
+    {
+      "name": "Trojan.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Trojan.png"
+    },
+    {
+      "name": "Trojan_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Trojan_Letter.png"
+    },
+    {
+      "name": "Turkey.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Turkey.png"
+    },
+    {
+      "name": "TVB.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/TVB.png"
+    },
+    {
+      "name": "TW.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/TW.png"
+    },
+    {
+      "name": "Twitch.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Twitch.png"
+    },
+    {
+      "name": "Twitter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Twitter.png"
+    },
+    {
+      "name": "UK.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/UK.png"
+    },
+    {
+      "name": "ULB.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/ULB.png"
+    },
+    {
+      "name": "ULB_Alt.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/ULB_Alt.png"
+    },
+    {
+      "name": "UN.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/UN.png"
+    },
+    {
+      "name": "United_Kingdom.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/United_Kingdom.png"
+    },
+    {
+      "name": "United_Nations.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/United_Nations.png"
+    },
+    {
+      "name": "United_States.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/United_States.png"
+    },
+    {
+      "name": "United_States_Map.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/United_States_Map.png"
+    },
+    {
+      "name": "Unlock.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Unlock.png"
+    },
+    {
+      "name": "US.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/US.png"
+    },
+    {
+      "name": "Vimeo.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Vimeo.png"
+    },
+    {
+      "name": "VIP.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/VIP.png"
+    },
+    {
+      "name": "VirMach.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/VirMach.png"
+    },
+    {
+      "name": "VirMach_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/VirMach_Letter.png"
+    },
+    {
+      "name": "ViuTV.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/ViuTV.png"
+    },
+    {
+      "name": "VMess.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/VMess.png"
+    },
+    {
+      "name": "VMess_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/VMess_Letter.png"
+    },
+    {
+      "name": "w8ves.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/w8ves.png"
+    },
+    {
+      "name": "w8ves_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/w8ves_Letter.png"
+    },
+    {
+      "name": "Want_Want.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Want_Want.png"
+    },
+    {
+      "name": "Want_Want_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Want_Want_Letter.png"
+    },
+    {
+      "name": "WeChat.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/WeChat.png"
+    },
+    {
+      "name": "WeTV.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/WeTV.png"
+    },
+    {
+      "name": "WeTV_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/WeTV_Letter.png"
+    },
+    {
+      "name": "WiFi.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/WiFi.png"
+    },
+    {
+      "name": "Windows.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Windows.png"
+    },
+    {
+      "name": "WTT.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/WTT.png"
+    },
+    {
+      "name": "x0.1.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x0.1.png"
+    },
+    {
+      "name": "x0.2.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x0.2.png"
+    },
+    {
+      "name": "x0.3.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x0.3.png"
+    },
+    {
+      "name": "x0.4.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x0.4.png"
+    },
+    {
+      "name": "x0.5.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x0.5.png"
+    },
+    {
+      "name": "x0.7.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x0.7.png"
+    },
+    {
+      "name": "x0.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x0.png"
+    },
+    {
+      "name": "x1.0.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x1.0.png"
+    },
+    {
+      "name": "x1.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x1.png"
+    },
+    {
+      "name": "x2.0.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x2.0.png"
+    },
+    {
+      "name": "x2.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x2.png"
+    },
+    {
+      "name": "x3.0.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x3.0.png"
+    },
+    {
+      "name": "x3.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x3.png"
+    },
+    {
+      "name": "x4.0.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x4.0.png"
+    },
+    {
+      "name": "x5.0.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/x5.0.png"
+    },
+    {
+      "name": "Yahoo.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Yahoo.png"
+    },
+    {
+      "name": "Yahoo_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/Yahoo_Letter.png"
+    },
+    {
+      "name": "YouTube.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/YouTube.png"
+    },
+    {
+      "name": "YouTube_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/YouTube_Letter.png"
+    },
+    {
+      "name": "YouTube_Music.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/YouTube_Music.png"
+    },
+    {
+      "name": "YoYu.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/YoYu.png"
+    },
+    {
+      "name": "YoYu_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/YoYu_Letter.png"
+    },
+    {
+      "name": "YTOO.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/YTOO.png"
+    },
+    {
+      "name": "YTOO_Letter.png",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/IconSet/YTOO_Letter.png"
+    }
+  ],
+  "description": "Qure Light (All) 是 Qure 项目下的浅色主题的「所有」图标集 @Koolson"
+}
