@@ -1,0 +1,350 @@
+{
+  "name": "Color+",
+  "description": "By Orz-3",
+  "icons": [
+    {
+      "name": "Flower",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Flower.png"
+    },
+    {
+      "name": "Maying",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Maying.png"
+    },
+    {
+      "name": "Nexitally",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Nex.png"
+    },
+    {
+      "name": "Dler",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Dler.png"
+    },
+    {
+      "name": "Cylink",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Cylink.png"
+    },
+    {
+      "name": "SaySS",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/SaySS.png"
+    },
+    {
+      "name": "Boslife",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Boslife.png"
+    },
+    {
+      "name": "CCCat",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/CCCat.png"
+    },
+    {
+      "name": "AAEX",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/AAEX.png"
+    },
+    {
+      "name": "Hitun",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Hitun.png"
+    },
+    {
+      "name": "MDSS",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/MDSS.png"
+    },
+    {
+      "name": "STC",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/STC.png"
+    },
+    {
+      "name": "Blinkload",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Blink.png"
+    },
+    {
+      "name": "YTOO",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Ytoo.png"
+    },
+    {
+      "name": "SSP",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Ssp.png"
+    },
+    {
+      "name": "Renzhe",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Renzhe.png"
+    },
+    {
+      "name": "NSFW",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/NSFW.png"
+    },
+    {
+      "name": "Cord",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Cord.png"
+    },
+    {
+      "name": "Exflux",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Exflux.png"
+    },
+    {
+      "name": "ImmTel",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Imm.png"
+    },
+    {
+      "name": "Xingmeng",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Xingmeng.png"
+    },
+    {
+      "name": "Ark",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Ark.png"
+    },
+    {
+      "name": "Amy",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Amy.png"
+    },
+    {
+      "name": "GuGuEX",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Guguex.png"
+    },
+    {
+      "name": "Kache",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Kache.png"
+    },
+    {
+      "name": "Cm",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Cm.png"
+    },
+    {
+      "name": "Fastnode",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Fastnode.png"
+    },
+    {
+      "name": "Boom",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Boom.png"
+    },
+    {
+      "name": "Np",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Np.png"
+    },
+    {
+      "name": "Catnet",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Catnet.png"
+    },
+    {
+      "name": "Xair",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Xair.png"
+    },
+    {
+      "name": "Dukou",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Dukou.png"
+    },
+    {
+      "name": "CoCo",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Coco.png"
+    },
+    {
+      "name": "V2Tun",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/V2tun.png"
+    },
+    {
+      "name": "DLK",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/DLK.png"
+    },
+    {
+      "name": "Fastlink",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Fastlink.png"
+    },
+    {
+      "name": "Yunyi",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Yunyi.png"
+    },
+    {
+      "name": "CNIX",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/CNIX.png"
+    },
+    {
+      "name": "Zhs",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Zhs.png"
+    },
+    {
+      "name": "Bywave",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Bywave.png"
+    },
+    {
+      "name": "Ywhl",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Ywhl.png"
+    },
+    {
+      "name": "Kedou",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Kedou.png"
+    },
+    {
+      "name": "Fastfish",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Fastfish.png"
+    },
+    {
+      "name": "Dianliang",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Dianliang.png"
+    },
+    {
+      "name": "ASN",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/ASN.png"
+    },
+    {
+      "name": "WestData",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/WestData.png"
+    },
+    {
+      "name": "SSlinks",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/SSlinks.png"
+    },
+    {
+      "name": "Paoluz",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Paoluz.png"
+    },
+    {
+      "name": "Prpr",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Prpr.png"
+    },
+    {
+      "name": "Skicat",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Skicat.png"
+    },
+    {
+      "name": "Suda",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Suda.png"
+    },
+    {
+      "name": "Muchang",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Muchang.png"
+    },
+    {
+      "name": "Shandian",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Shandian.png"
+    },
+    {
+      "name": "MGNB",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/MGNB.png"
+    },
+    {
+      "name": "Wallless",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Wallless.png"
+    },
+    {
+      "name": "Element",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Element.png"
+    },
+    {
+      "name": "BitCloud",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Bitcloud.png"
+    },
+    {
+      "name": "Hxlm",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Hxlm.png"
+    },
+    {
+      "name": "Miaona",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Miao.png"
+    },
+    {
+      "name": "Duang",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Duang.png"
+    },
+    {
+      "name": "FNF",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/FNF.png"
+    },
+    {
+      "name": "Rookie",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Rookie.png"
+    },
+    {
+      "name": "OvO",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/OvO.png"
+    },
+    {
+      "name": "Socloud",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Socloud.png"
+    },
+    {
+      "name": "Suncloud",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Sun.png"
+    },
+    {
+      "name": "GLaDOS",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/GLaDOS.png"
+    },
+    {
+      "name": "Situ",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Situ.png"
+    },
+    {
+      "name": "Kuai",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Kuai.png"
+    },
+    {
+      "name": "SWCloud",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/SWCloud.png"
+    },
+    {
+      "name": "MIMEMI",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Mimemi.png"
+    },
+    {
+      "name": "XTunnel",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/XTunnel.png"
+    },
+    {
+      "name": "Touhou",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Touhou.png"
+    },
+    {
+      "name": "Pacifiuue",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Pacifique.png"
+    },
+    {
+      "name": "GaCloud",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/GaCloud.png"
+    },
+    {
+      "name": "Enet",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Enet.png"
+    },
+    {
+      "name": "FRANXX",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/FRANXX.png"
+    },
+    {
+      "name": "Nucleus",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Nucleus.png"
+    },
+    {
+      "name": "Flyint",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Flyint.png"
+    },
+    {
+      "name": "SCTC",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/SCTC.png"
+    },
+    {
+      "name": "AEX",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/AEX.png"
+    },
+    {
+      "name": "LiYing",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/LiYing.png"
+    },
+    {
+      "name": "Godetia",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Godetia.png"
+    },
+    {
+      "name": "Thunder",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Thunder.png"
+    },
+    {
+      "name": "Kafka",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Kafka.png"
+    },
+    {
+      "name": "Unicorn",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Unicorn.png"
+    },
+    {
+      "name": "Mickey",
+      "url": "https://raw.githubusercontent.com/MaxTseng/Quantumult-X/main/icon/Color/Mickey.png"
+    }
+  ]
+}
